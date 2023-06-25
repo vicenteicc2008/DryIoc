@@ -1,7 +1,5 @@
 DryIoc is fast, small, full-featured IoC Container for .NET
 ===========================================================
-![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700)
-
 
 <img src="./logo/logo.svg" alt="logo" width="100px"/>
 
@@ -30,7 +28,7 @@ DryIoc is fast, small, full-featured IoC Container for .NET
     - __DryIoc__ (source code) [![NuGet Badge](https://buildstats.info/nuget/DryIoc)](https://www.nuget.org/packages/DryIoc)
     - __DryIoc.Internal__ (source code with public types made internal) [![NuGet Badge](https://buildstats.info/nuget/DryIoc.Internal)](https://www.nuget.org/packages/DryIoc.Internal)
 
-- [Release Notes](https://github.com/dadhi/DryIoc/releases/tag/v5.3.4) :: [Previous Versions](https://github.com/dadhi/DryIoc/blob/master/docs/DryIoc.Docs/VersionHistory.md)
+- [Release Notes](https://github.com/dadhi/DryIoc/releases/tag/v5.4.1) :: [Previous Versions](https://github.com/dadhi/DryIoc/blob/master/docs/DryIoc.Docs/VersionHistory.md)
 - [Extensions and Companions](Extensions.md)
 - [Live Documentation][WikiHome] created with [CsToMd](https://github.com/dadhi/CsToMd)
 - [Contribution guide](CONTRIBUTING.md)
